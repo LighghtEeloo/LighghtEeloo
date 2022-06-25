@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### Hey. 
 
-Yet another arbitrary node here. 
+All we need is the next 700 do be do be do.
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LighghtEeloo&hide=css,vue,stylus,javascript,scss,php,shell,html&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&langs_count=3" />
-</a> -->
+</a>
 
