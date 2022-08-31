@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 
 Life is like a box of continuations. Pick one and get lost.
 
-Graduate from gradual things, dude. Things just gradually become slow.
-
 All we need is the next 700 do be do be do.
 
 ---
 
-Investigating PL and (**the**) ML stuff.
+Undergrad. Investigating PL and (**the**) ML stuff.
 
 Like rusty things and enjoy riding on camel.
 
